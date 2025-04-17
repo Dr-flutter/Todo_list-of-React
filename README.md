@@ -1,8 +1,24 @@
-# React + Vite
+# Todo List React Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+Cette application est une liste de tâches (Todo List) développée avec React. Elle permet aux utilisateurs de créer, gérer et organiser leurs tâches quotidiennes de manière simple et intuitive.
 
-Currently, two official plugins are available:
+## Technologies utilisées
+- React
+- Chakra UI pour l'interface utilisateur
+- Vite comme outil de build
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Fonctionnalités
+- Ajouter de nouvelles tâches
+- Marquer les tâches comme terminées
+- Supprimer des tâches
+- Interface utilisateur responsive et moderne
+
+## Installation
+Pour installer et exécuter ce projet localement:
+
+```bash
+git clone https://github.com/Dr-flutter/Todo_list-of-React.git
+cd Todo_list-of-React
+npm install
+npm run dev
